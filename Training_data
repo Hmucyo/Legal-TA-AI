@@ -1,0 +1,816 @@
+[
+{
+"Policy": "Today, President Donald J. Trump signed a Proclamation to restrict the entry into the United States of certain H-1B aliens as nonimmigrant workers, requiring a $100,000 payment to accompany or supplement H-1B petitions for new applications to curb abuses that displace U.S. workers and undermine national security.",
+"Category": "Presidential Proclamation",
+"Target": "U.S. technology companies, employers reliant on H-1B visas, and prospective high-skilled foreign workers.",
+"Explained": "Yo, so basically Trump dropped this rule that's gonna make it crazy expensive for tech companies to hire smart people from other countries. They're slapping a $100k fee on these H-1B visas. The idea is to make companies hire Americans instead, but a lot of people are saying it's gonna mess up the tech scene and might not even be legal. It's a whole thing."
+},
+{
+"Policy": "The House passed legislation Friday morning that would keep the government open through Nov. 21 to avert an October shutdown and buy more time for bipartisan negotiations over full-year spending bills. The measure would extend government funding generally at current levels for seven weeks.",
+"Category": "Bill",
+"Target": "All U.S. federal government agencies, federal employees, and recipients of federal funding.",
+"Explained": "Aight, so Congress is beefing again and can't agree on a budget. To stop the whole government from shutting down, the House passed this temporary fix, like putting a band-aid on it. But the Senate's not having it because the Democrats want to talk about healthcare stuff, and the Republicans are like 'nah.' So now we're just waiting to see if they'll get their act together or if everyone's getting furloughed. Classic."
+},
+{
+"Policy": "The Department of Justice is issuing a final rule to implement Executive Order 14117 of February 28, 2024 (Preventing Access to Americans' Bulk Sensitive Personal Data and United States Government-Related Data by Countries of Concern), by prohibiting and restricting certain data transactions with certain countries or covered persons.",
+"Category": "Final Rule",
+"Target": "U.S. persons and companies engaged in data brokerage, or with vendor, employment, or investment agreements involving the transfer of bulk sensitive personal data to 'countries of concern' (e.g., China, Russia, Iran) or entities they control.",
+"Explained": "So check it, the government is getting real paranoid about countries like China and Russia getting their hands on our data. They put out this super serious rule that basically blocks or puts a ton of restrictions on any company that's moving large amounts of sensitive info—like health records or location data—to those places. It's a huge deal for any business that works internationally, and it's gonna cost them a bag to make sure they're following the rules."
+},
+{
+"Policy": "§ 20-1521 Delivery distance and route. a. Each third-party food delivery service and third-party courier service shall provide each food delivery worker with the ability to specify: 1. the maximum distance per trip... 2. that such worker will not accept trips that require travel over any bridge... and 3. that such worker will not accept trips that require travel through any tunnel...",
+"Category": "Local Law",
+"Target": "Third-party food and courier delivery service platforms (e.g., Uber Eats, DoorDash, Grubhub) and the food delivery workers they contract with in New York City.",
+"Explained": "Bet. So you know all those delivery guys flying around the city on their e-bikes? The City Council finally passed some laws to look out for them. This one lets them tell the apps, 'Look, I'm not going past this street,' or 'I'm not taking that bridge.' So the apps can't just send them on some wild goose chase from the UES to deep Brooklyn for one order. It gives the workers a little more control, which is only right."
+},
+{
+"Policy": "BEFORE AN OWNER OF A RENTAL HOUSING ACCOMMODATION MAY SELL OR ACCEPT AN OFFER TO SELL A RENTAL HOUSING ACCOMMODATION, THE OWNER SHALL GIVE EACH TENANT, TENANT ORGANIZATION OR QUALIFIED PURCHASER AN OPPORTUNITY TO PURCHASE SUCH RENTAL HOUSING ACCOMMODATION AT A PRICE AND TERMS THAT REPRESENT A BONA FIDE OFFER OF SALE.",
+"Category": "Bill",
+"Target": "Owners of rental housing accommodations, tenants, tenant organizations, and qualified non-profit purchasers in New York State.",
+"Explained": "Real talk, the housing situation here is a mess. So Albany is trying to do something about it. This one bill, if it passes, would be wild. It basically says if your landlord wants to sell the building, they have to offer it to you and the other tenants first before some big real estate company can swoop in. It's supposed to help people stay in their homes and keep neighborhoods from getting flipped overnight."
+},
+{
+"Policy": "To name the Department of Veterans Affairs community-based outpatient clinic in Toms River, New Jersey, the Leonard G. 'Bud' Lomell, VA Clinic, and for other purposes.",
+"Category": "Public Law",
+"Target": "Department of Veterans Affairs, residents of Toms River, New Jersey, and U.S. veterans.",
+"Explained": "It's just some official government business, naming a new VA clinic in Jersey after some war hero dude. Good for him, I guess. It's not changing my life, but it's a nice gesture for the vets out there."
+},
+{
+"Policy": "To amend the Fair Credit Reporting Act to prevent consumer reporting agencies from furnishing consumer reports under certain circumstances, and for other purposes.",
+"Category": "Public Law",
+"Target": "Consumer reporting agencies (Equifax, Experian, TransUnion), consumers, and lenders.",
+"Explained": "Okay, so this is about your credit score. They're making it so credit bureaus can't just share your info whenever they want under certain situations. It's supposed to give you a little more protection from them messing up your life if there's a problem."
+},
+{
+"Policy": "A bill to provide for the regulation of payment stablecoins, and for other purposes.",
+"Category": "Public Law",
+"Target": "Cryptocurrency companies, financial technology (FinTech) firms, the Federal Reserve, and consumers using digital payments.",
+"Explained": "The government is finally getting into crypto. This law is supposed to put some rules on 'stablecoins,' which are the crypto coins that are supposed to be tied to real money like the dollar. They're trying to make sure it's not all the wild west and people don't lose all their money."
+},
+{
+"Policy": "A bill to amend the Controlled Substances Act with respect to the scheduling of fentanyl-related substances, and for other purposes.",
+"Category": "Public Law",
+"Target": "Drug Enforcement Administration (DEA), law enforcement agencies, and individuals involved in the manufacturing or distribution of illicit drugs.",
+"Explained": "Fentanyl is no joke, it's killing mad people. So this law makes it easier for the feds to classify all the different versions of fentanyl as super illegal drugs, so they can crack down on the people making and selling it. It's a big deal for the opioid crisis."
+},
+{
+"Policy": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to 'California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards'.",
+"Category": "Public Law (Joint Resolution)",
+"Target": "Environmental Protection Agency (EPA), California Air Resources Board (CARB), and automobile manufacturers.",
+"Explained": "So California has its own tough rules for car pollution, and the EPA was cool with it. But now Congress is stepping in and saying 'nah, we're canceling that rule.' It's a whole fight between states' rights and the federal government over electric cars and climate change stuff."
+},
+{
+"Policy": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to 'Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications'.",
+"Category": "Public Law (Joint Resolution)",
+"Target": "Bureau of Consumer Financial Protection (CFPB), digital payment app companies (like Venmo, Cash App), and consumers.",
+"Explained": "The government was trying to put more rules on apps like Venmo and Cash App, but Congress shut that down. They basically passed a resolution to veto the new regulations. So for now, things stay the same for your payment apps."
+},
+{
+"Policy": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to 'Overdraft Lending: Very Large Financial Institutions'.",
+"Category": "Public Law (Joint Resolution)",
+"Target": "Bureau of Consumer Financial Protection (CFPB), large banks, and bank customers.",
+"Explained": "You know those overdraft fees that banks hit you with? The consumer protection agency made a rule to limit them, but Congress just voted to kill it. So, the big banks can keep charging those crazy fees. It's a win for the banks, not so much for us."
+},
+{
+"Policy": "Making further continuing appropriations and other extensions for the fiscal year ending September 30, 2025, and for other purposes.",
+"Category": "Public Law",
+"Target": "U.S. federal government agencies and employees.",
+"Explained": "This is another one of those 'kick the can down the road' laws. Congress couldn't agree on a real budget, so they passed this to keep the government funded for a little while longer and avoid a shutdown. It's like paying the minimum on your credit card."
+},
+{
+"Policy": "Adoption and Procedures of the Section 232 Automobile Parts Tariff Inclusions Process.",
+"Category": "Final Rule",
+"Target": "Automobile manufacturers, auto parts importers, and U.S. Customs and Border Protection.",
+"Explained": "Basically, the government is putting tariffs, which are like taxes, on car parts coming from other countries. They're saying it's for 'national security,' but really it means cars and car repairs could get more expensive. This rule is about the process for companies to argue that certain parts shouldn't have the tax."
+},
+{
+"Policy": "Additions and Revisions to the Entity List.",
+"Category": "Final Rule",
+"Target": "U.S. exporters of technology and specific foreign companies and individuals.",
+"Explained": "The government has this 'Entity List,' which is basically a blacklist of foreign companies they think are sketchy. This rule adds more companies to that list. If you're an American company, you can't sell certain tech to them without getting a special license, which is almost impossible. It's all part of the tech cold war with China."
+},
+{
+"Policy": "Fisheries of the South Atlantic: 2025 Commercial Closure of Red Snapper in the South Atlantic.",
+"Category": "Final Rule",
+"Target": "Commercial fishermen in the South Atlantic region.",
+"Explained": "The government is telling all the commercial fishing boats in the South Atlantic that they have to stop catching red snapper for the rest of the year. They do this when they think too many fish have been caught, to try and make sure there are still fish left for the future. Sucks if you're a fisherman, though."
+},
+{
+"Policy": "Temporary Protected Status: Designation of Syria; Termination.",
+"Category": "Notice",
+"Target": "Syrian nationals residing in the United States under Temporary Protected Status (TPS).",
+"Explained": "This is heavy. The government is ending the 'Temporary Protected Status' for people from Syria. That means Syrians who were allowed to stay here because of the war back home might have to leave the country. It's a huge deal for thousands of people."
+},
+{
+"Policy": "Increased Assessment Rate: Irish Potatoes Grown in Certain Designated Counties in Idaho, and Malheur County, OR.",
+"Category": "Final Rule",
+"Target": "Potato growers in specific counties of Idaho and Oregon.",
+"Explained": "This is some deep-cut government stuff. They're making potato farmers in parts of Idaho and Oregon pay a slightly higher fee to a board that promotes potatoes. It's like a mandatory marketing fee to get everyone to buy more french fries, I guess."
+},
+{
+"Policy": "Implementation of Refund Procedures for Craft Beverage Modernization Act Federal Excise Tax Benefits Applicable to Imported Alcohol.",
+"Category": "Final Rule",
+"Target": "Importers of foreign alcoholic beverages.",
+"Explained": "This is for the people who import booze. There was a law that gave tax breaks to craft breweries and distilleries, and this rule sets up the system for importers of foreign craft drinks to get similar tax benefits. So your imported craft beer might get a little cheaper for the bar to buy."
+},
+{
+"Policy": "Directs the state university trustees, without any public bidding, to lease and otherwise contract to make a portion of the lands of SUNY Stony Brook on its campus to the Stony Brook Housing Development Corp. for the purpose of building undergraduate housing.",
+"Category": "Law (State)",
+"Target": "SUNY Stony Brook, Stony Brook Housing Development Corp., and university students.",
+"Explained": "Stony Brook is getting some new dorms. The state passed a law that lets them make a deal to build new housing for students on campus without having to go through all the usual red tape. More housing for students is always a good look."
+},
+{
+"Policy": "Designates certain portions of the state highway system between Cayuga lake and Seneca lake as the 'Between Cayuga and Seneca Lakes Wine Trail'.",
+"Category": "Law (State)",
+"Target": "New York State Department of Transportation, wineries, and tourism industry in the Finger Lakes region.",
+"Explained": "This is some upstate business. They're officially naming a highway route in the Finger Lakes the 'Wine Trail.' It's basically a branding move to get more tourists to come drink wine up there. Not a bad idea, honestly."
+},
+{
+"Policy": "Waives the residency requirement for the office of commissioner of finance of the county of Putnam.",
+"Category": "Law (State)",
+"Target": "Putnam County government and potential candidates for the commissioner of finance position.",
+"Explained": "So, some government jobs upstate make you live in the county where you work. This law says the main money person for Putnam County doesn't have to live there anymore. They're probably having a hard time finding someone qualified who actually wants to live in Putnam."
+},
+{
+"Policy": "Relates to filing timely notices of participation in World Trade Center rescue efforts for the purposes of receiving World Trade Center benefits.",
+"Category": "Law (State)",
+"Target": "9/11 first responders and rescue workers.",
+"Explained": "This is for the 9/11 heroes. A lot of them are still getting sick from working at Ground Zero. This law makes it easier for them to file the paperwork to get the health benefits and compensation they deserve, even if they missed the original deadlines."
+},
+{
+"Policy": "Sale of electric space heaters. This bill would prohibit the sale of electric space heaters without certain safety features; specifically, requiring all such devices for sale to be equipped with a thermostat, an automatic function that disables the device upon tip-over or overheating.",
+"Category": "Local Law",
+"Target": "Manufacturers and retailers of electric space heaters, and New York City residents.",
+"Explained": "You know those little space heaters that can literally burn your whole apartment down? The city is making a rule that you can't sell them anymore unless they have safety features, like turning off automatically if they tip over. Deadass, it's about time."
+},
+{
+"Policy": "Licensing of construction labor providers. This bill would require certain businesses that supply their employees to clients for the performance of construction work or manual labor on the client's construction site, in exchange for compensation, to be licensed.",
+"Category": "Local Law",
+"Target": "Businesses that supply construction workers (labor brokers) and construction workers.",
+"Explained": "There are these companies that are basically temp agencies for construction sites. This law makes them get a license and follow a bunch of rules to make sure they're not screwing over the workers. It's supposed to stop shady bosses from exploiting people."
+},
+{
+"Policy": "Open captioning at motion picture theatres. This bill would require that movie theaters showing over 10 movies a week provide open captions for at least one quarter of all showings when a movie is shown four or more times.",
+"Category": "Local Law",
+"Target": "Movie theaters in New York City and deaf or hard-of-hearing individuals.",
+"Explained": "This is actually pretty cool. The city is making movie theaters show more movies with open captions, you know, the subtitles that are right on the screen. It's for people who are deaf or hard of hearing so they can actually go to the movies and know what's going on. It's about making things more accessible, you feel me?"
+},
+{
+"Policy": "Authorizes the New York State Public Employment Relations Board to assert jurisdiction over disputes between employers and recognized employee organizations if the National Labor Relations Board is unable to successfully assert jurisdiction.",
+"Category": "Law (State)",
+"Target": "New York State Public Employment Relations Board (PERB), private sector employers, and labor unions.",
+"Explained": "So the national board that handles union stuff is kinda messed up right now. This state law lets New York's own labor board step in and handle disputes between companies and unions if the feds can't get their act together. It's like a backup plan to protect workers' rights."
+},
+{
+"Policy": "Protects public unions from a wage reduction due to their involvement in the investigation of a violation of a workplace violence protection program.",
+"Category": "Law (State)",
+"Target": "Public sector unions and their members in New York State.",
+"Explained": "If a government worker helps investigate violence at their job, this law makes sure their boss can't cut their pay as punishment. It's to protect whistleblowers and make sure people feel safe speaking up about dangerous situations at work."
+},
+{
+"Policy": "Amends the Civil Service Law to strengthen protections for public unions during times of suspensions and workforce layoffs.",
+"Category": "Law (State)",
+"Target": "Public sector unions and government employees in New York State.",
+"Explained": "When the government has to do layoffs, this law beefs up the protections for union workers. It makes sure the union contracts and rules are still followed, so they can't just use layoffs as an excuse to bust the union."
+},
+{
+"Policy": "Establishes the Mechanical Insulation Energy Savings Program to provide grants for qualified mechanical insulation expenditures to school districts.",
+"Category": "Law (State)",
+"Target": "New York State school districts and mechanical insulation contractors.",
+"Explained": "The state is giving money to schools to upgrade their insulation on pipes and stuff. The goal is to make the schools more energy-efficient, save money on heating bills, and create some green jobs for the people who do the work."
+},
+{
+"Policy": "Requires contractors and subcontractors performing construction work for covered renewable energy systems to have apprenticeship agreements.",
+"Category": "Law (State)",
+"Target": "Construction contractors in the renewable energy sector and labor unions.",
+"Explained": "So New York is going big on green energy, right? This law says that the companies building all these solar panels and wind turbines have to use official apprenticeship programs. It's a way to make sure the jobs are good, union jobs and that workers are getting trained right, not just some random gig."
+},
+{
+"Policy": "City of Yes: Zoning for Housing Opportunity – A citywide zoning text amendment to change residential height, density, parking requirements, affordability, urban design, and other aspects within city zoning regulations.",
+"Category": "Zoning Text Amendment",
+"Target": "Real estate developers, property owners, and residents in all New York City neighborhoods.",
+"Explained": "The city is trying to fix the housing crisis by changing the rules for what you can build and where. They're letting developers build a little taller and denser, especially near subways, and getting rid of parking requirements for a lot of new buildings. The idea is to create more apartments, but some people are worried it's gonna change their neighborhoods too much."
+},
+{
+"Policy": "Introduction 1128-A, would set forth eligibility and design requirements for ancillary dwelling units (ADUs) in one- or two-family dwellings, including utility systems and fire prevention requirements.",
+"Category": "Bill (Local)",
+"Target": "Homeowners of one- and two-family houses in New York City.",
+"Explained": "This is about legalizing stuff like basement apartments and backyard cottages. The city is setting up rules so homeowners can legally build and rent out these small apartments on their property. It's another way they're trying to add more housing options in the city."
+},
+{
+"Policy": "Introduction 814-A, would require that the Department of Environmental Protection (DEP) update the sewer backup prevention plan by 2025 and conduct regular updates thereafter.",
+"Category": "Bill (Local)",
+"Target": "New York City Department of Environmental Protection (DEP) and city residents, particularly in flood-prone areas.",
+"Explained": "Remember when the subways and everyone's basement got flooded? This bill is making the city update its plan to stop sewers from backing up during heavy rain. They have to do it every five years to keep up with climate change and all the crazy weather we've been getting."
+},
+{
+"Policy": "Introduction 1201-A, expands the city's private right of legal action to include interference with gender-affirming care. The 'Affirm Act' allows anyone traveling to New York for care to counter lawsuits from states with anti-trans policies.",
+"Category": "Bill (Local)",
+"Target": "Transgender and gender non-conforming individuals seeking healthcare, and healthcare providers.",
+"Explained": "So other states are passing these wild anti-trans laws. This NYC bill is basically a shield. It says if you come to New York for gender-affirming care and your home state tries to sue you or your doctor, you can fight back in court here. It's making the city a safe haven for trans healthcare."
+},
+{
+"Policy": "Introduction 246-A by Brooklyn Council Member Crystal Hudson, which mandates an 'X' gender marker option on city forms.",
+"Category": "Bill (Local)",
+"Target": "All New York City agencies and non-binary or gender non-conforming residents.",
+"Explained": "This is pretty straightforward. It makes all city forms have an 'X' option for gender, not just 'M' or 'F'. It's for non-binary people so they can have official documents that actually match their identity. It's about respect, you know?"
+},
+{
+"Policy": "Introduction 206-B, would require the Department of Correction (DOC) to provide annual training to all uniformed staff on the proper use of opioid antagonists and make the training available to individuals who are incarcerated.",
+"Category": "Bill (Local)",
+"Target": "Department of Correction staff and individuals incarcerated in city jails.",
+"Explained": "People are dying from overdoses in Rikers, it's a huge problem. This bill forces all the correction officers to get trained on how to use Narcan to reverse an overdose. They also have to make it available to the people in jail. It's a basic step to, you know, stop people from dying."
+},
+{
+"Policy": "Introduction 573-A, would require the Department of Parks and Recreation (DPR) to install at least 50 outdoor drinking fountains in public parks no later than June 1, 2035.",
+"Category": "Bill (Local)",
+"Target": "Department of Parks and Recreation and New York City residents.",
+"Explained": "It's crazy how hard it is to find a working water fountain in a park. This bill is making the Parks Department install at least 50 new ones across the city. So when you're dying of thirst in the summer, you don't have to buy a plastic bottle of water."
+},
+{
+"Policy": "Introduction 1050-A, would prohibit the Taxi and Limousine Commission (TLC) from requiring the vehicles it licenses to have personal injury protection liability coverage in an amount greater than 200% of the amount required by state law.",
+"Category": "Bill (Local)",
+"Target": "Taxi and Limousine Commission (TLC), for-hire vehicle drivers (like Uber/Lyft), and insurance companies.",
+"Explained": "The city was making Uber and taxi drivers get this super expensive insurance, way more than the state requires. This bill lowers the requirement to be more in line with the rest of the state. It's supposed to save drivers a ton of money on their insurance bills."
+},
+{
+"Policy": "The Trump administration also asked the supreme court on Friday to intervene in a bid to refuse to issue passports to transgender and non-binary Americans that reflect their gender identities.",
+"Category": "Executive Action / Legal Filing",
+"Target": "U.S. Supreme Court, Department of State, and transgender and non-binary U.S. citizens.",
+"Explained": "The White House is taking its fight over gender identity to the Supreme Court. They're trying to get the court's permission to deny passports that have gender markers matching a person's identity if it's different from their birth certificate. It's another front in the whole culture war thing."
+},
+{
+"Policy": "The Pentagon announced that reporters covering the agency could enter the building only if they agreed not to publish certain information, marking an unprecedented move that gives the department overarching control over what the media can report.",
+"Category": "Directive / Regulation",
+"Target": "Journalists and media organizations covering the Department of Defense.",
+"Explained": "The Pentagon is putting new rules on reporters. If they want to get into the building, they have to sign a pledge not to publish certain info, even if it's not officially 'classified.' It's a major crackdown on the press and what they can report about the military."
+},
+{
+"Policy": "The Department of Homeland Security announced on Friday that it will end temporary status for about 4,000 Syrians, the latest move from the Trump administration to make more immigrants in the US eligible for deportation.",
+"Category": "Agency Announcement / Directive",
+"Target": "Syrian nationals in the U.S. with Temporary Protected Status (TPS).",
+"Explained": "This is messed up. The government is kicking out about 4,000 Syrians who were allowed to stay here because of the civil war back home. They're ending their 'temporary protected status,' which means they could get deported. It's part of the administration's whole anti-immigration push."
+},
+{
+"Policy": "To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to take certain actions in the case of a default on a home loan guaranteed by the Secretary, and for other purposes.",
+"Category": "Public Law",
+"Target": "U.S. Department of Veterans Affairs and veterans with VA-guaranteed home loans.",
+"Explained": "This is for veterans who have a VA home loan. If they're struggling to make payments, this law gives the VA more options to help them out and avoid foreclosure. It's about making sure vets don't lose their homes."
+},
+{
+"Policy": "A bill to rename the Anahuac National Wildlife Refuge located in the State of Texas as the 'Jocelyn Nungaray National Wildlife Refuge'.",
+"Category": "Public Law",
+"Target": "U.S. Fish and Wildlife Service and residents of Texas.",
+"Explained": "Congress is renaming a wildlife refuge in Texas after Jocelyn Nungaray. It's a way to honor her memory. It's mostly symbolic, but it's a big deal for her family and community."
+},
+{
+"Policy": "To redesignate the Salem Maritime National Historic Site as the 'Salem Maritime National Historical Park', and for other purposes.",
+"Category": "Public Law",
+"Target": "National Park Service and the city of Salem, Massachusetts.",
+"Explained": "They're just changing the name of a historic site in Salem from a 'Historic Site' to a 'Historical Park.' It sounds like a minor thing, but it can change how the park is managed and funded. It's a bureaucratic glow-up."
+},
+{
+"Policy": "A bill to amend the Wildfire Suppression Aircraft Transfer Act of 1996 to reauthorize the sale by the Department of Defense of aircraft and parts for wildfire suppression purposes, and for other purposes.",
+"Category": "Public Law",
+"Target": "Department of Defense, U.S. Forest Service, and state firefighting agencies.",
+"Explained": "Wildfires are getting insane, especially out west. This law lets the military keep selling old planes and parts to firefighting agencies to use for fighting fires. It's a way to get them more equipment on the cheap."
+},
+{
+"Policy": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to 'Glen Canyon National Recreation Area: Motor Vehicles'.",
+"Category": "Public Law (Joint Resolution)",
+"Target": "National Park Service and visitors to Glen Canyon National Recreation Area.",
+"Explained": "The Park Service made a rule about where you can drive cars and stuff in Glen Canyon. Congress didn't like it, so they passed this to block the rule. It's another one of those fights over how to use public lands."
+},
+{
+"Policy": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to 'Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers'.",
+"Category": "Public Law (Joint Resolution)",
+"Target": "Department of Energy, manufacturers of commercial refrigeration equipment, and businesses that use walk-in coolers/freezers.",
+"Explained": "The government tried to make new energy-saving rules for those big walk-in fridges you see at restaurants and grocery stores. Congress said no and passed this to cancel the new standards. It's a battle between energy efficiency and what businesses say are expensive regulations."
+},
+{
+"Policy": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to 'Protection of Marine Archaeological Resources'.",
+"Category": "Public Law (Joint Resolution)",
+"Target": "Bureau of Ocean Energy Management and companies involved in offshore energy development.",
+"Explained": "There was a rule to protect old shipwrecks and stuff on the ocean floor from being destroyed by things like offshore wind farms. Congress just voted to get rid of that rule. So now there are fewer protections for underwater historical sites."
+},
+{
+"Policy": "Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Trucks.",
+"Category": "Notice",
+"Target": "Foreign and domestic truck manufacturers, importers, and the U.S. Department of Commerce.",
+"Explained": "The government is thinking about putting tariffs on trucks imported from other countries, claiming it's a national security issue. Right now, they're just asking for people's opinions on it. But it could mean foreign trucks get way more expensive."
+},
+{
+"Policy": "Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Copper.",
+"Category": "Notice",
+"Target": "Copper importers, domestic copper producers, and industries that use copper (e.g., construction, electronics).",
+"Explained": "They're looking into whether importing too much copper is a threat to national security. This is the first step before they decide to slap tariffs on it. It's all about protecting American companies, but it could drive up prices for anything made with copper."
+},
+{
+"Policy": "Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Semiconductors and Semiconductor Manufacturing Equipment.",
+"Category": "Notice",
+"Target": "Semiconductor industry, tech companies, and foreign and domestic chip manufacturers.",
+"Explained": "This is a big one. The government is investigating if our reliance on foreign computer chips is a national security risk. They're asking for public comment, but this could lead to major tariffs and shake up the entire tech world. It's all tied into the competition with China."
+},
+{
+"Policy": "Implementation of Duties on Aluminum Derivatives Beer and Empty Aluminum Cans Pursuant to Proclamation 10895 Adjusting Imports of Aluminum Into the United States.",
+"Category": "Final Rule",
+"Target": "Beverage companies, aluminum importers, and can manufacturers.",
+"Explained": "The government is officially putting a tax on imported aluminum, and that includes stuff made from it like beer cans. So, the cost of your favorite beer or soda in a can might go up because of this."
+},
+{
+"Policy": "Revocation of Validated End-User Authorizations in the People's Republic of China.",
+"Category": "Final Rule",
+"Target": "Specific companies in China and U.S. exporters.",
+"Explained": "There were some companies in China that had a special status making it easier for them to buy certain U.S. tech. This rule takes that status away. It's another move to make it harder for China to get its hands on sensitive American technology."
+},
+{
+"Policy": "Revisions to the Unverified List.",
+"Category": "Final Rule",
+"Target": "U.S. exporters and foreign entities on the Unverified List.",
+"Explained": "The government has a list of foreign companies that they can't really vet, called the 'Unverified List.' It's like a watch list. This rule updates that list. If a company is on it, it's a huge red flag and makes it way harder to do business with them."
+},
+{
+"Policy": "Legislation S2980-C/A6216-B strengthens tenant protections by making various changes to avoid improper deregulations or rent increases and improve enforcement of the rent stabilization laws.",
+"Category": "Law (State)",
+"Target": "Rent-stabilized tenants, landlords, and NYS Homes and Community Renewal (HCR).",
+"Explained": "Landlords have been using shady tricks to get apartments out of rent stabilization so they can jack up the rent. This new state law closes a bunch of those loopholes and makes it harder for them to cheat the system. It's a big win for tenants trying to stay in their homes."
+},
+{
+"Policy": "Enacts the 'sustainable affordable housing and sprawl prevention act'; exempts or limits environmental review under SEQR for the construction of certain new residential units to avoid creating unnecessary housing sprawl.",
+"Category": "Bill (State)",
+"Target": "Housing developers, environmental agencies, and local governments in New York State.",
+"Explained": "Building anything in New York takes forever because of all the environmental reviews. This bill would fast-track the approval process for new apartment buildings in areas that are already developed. The idea is to build more housing faster without creating suburban sprawl."
+},
+{
+"Policy": "New York State First Home Savings Program: This bill, S.1157, would establish a program to allow first time homebuyers to establish tax-exempt/deductible savings accounts to buy their first home.",
+"Category": "Bill (State)",
+"Target": "First-time homebuyers in New York State.",
+"Explained": "Buying a place in New York is basically impossible. This bill would let you open a special savings account for a down payment, and you wouldn't have to pay state taxes on the money you put in. It's supposed to make it a little easier to save up and finally own a home."
+},
+{
+"Policy": "Ensures Availability of Services through The Homeownership Protection Program: This bill, S.2627, will help support the continued availability of free housing counseling and legal services to homeowners through The State Homeowner Protection Program (HOPP).",
+"Category": "Bill (State)",
+"Target": "New York homeowners at risk of foreclosure.",
+"Explained": "There's a state program that gives free legal help and counseling to people who are about to lose their homes to foreclosure. This bill makes sure that program keeps getting funded so people have a fighting chance to stay in their houses."
+},
+{
+"Policy": "Requires written justifications for rent increases by home park owners: This bill, S.228, requires manufactured home park owners to provide a written justification for any rent increases in excess of three percent.",
+"Category": "Bill (State)",
+"Target": "Residents of manufactured home parks (trailer parks) and park owners.",
+"Explained": "This is for people who live in trailer parks. The owners can't just jack up the rent by a crazy amount anymore. If they want to raise it more than 3%, they have to explain why in writing. It gives residents a way to fight back against unfair rent hikes."
+},
+{
+"Policy": "Requiring building owners to provide shower hoses and informational materials on Legionnaires' disease to tenants.",
+"Category": "Bill (Local)",
+"Target": "New York City building owners and tenants.",
+"Explained": "Legionnaires' disease is this nasty pneumonia you can get from bad water systems. The City Council is considering a bill that would make landlords give tenants info about it and also provide detachable shower hoses, which are apparently safer. It's all about public health."
+},
+{
+"Policy": "Building water system maintenance and inspection.",
+"Category": "Bill (Local)",
+"Target": "New York City building owners.",
+"Explained": "This is another bill about Legionnaires'. It would create stricter rules for landlords about maintaining and inspecting the water systems in their buildings to prevent the bacteria from growing in the first place."
+},
+{
+"Policy": "Cooling tower inspections in heat-related emergencies.",
+"Category": "Bill (Local)",
+"Target": "Owners of buildings with cooling towers in New York City.",
+"Explained": "Those big cooling towers on top of buildings can also be a source for Legionnaires' disease. This bill would require them to be inspected during heat waves, when they're working overtime. It's another public health safety measure."
+},
+{
+"Policy": "Requiring certain retail food stores to post notices on the food donation web portal concerning the availability of excess food, and arranging for the transportation and retrieval of such food.",
+"Category": "Bill (Local)",
+"Target": "Grocery stores and food pantries/charities in New York City.",
+"Explained": "Grocery stores throw out a ton of perfectly good food. This bill would make them post on a city website when they have extra food available, so food banks and charities can come pick it up. It's about wasting less food and feeding people who need it."
+},
+{
+"Policy": "Creation of a mobile application that provides information about electric vehicle charging stations.",
+"Category": "Bill (Local)",
+"Target": "Electric vehicle owners and the NYC Department of Transportation.",
+"Explained": "If you have an electric car in the city, finding a charger is a nightmare. This bill would make the city create an app that shows you where all the public charging stations are, if they're available, and how much they cost. It's trying to make owning an EV less of a headache."
+},
+{
+"Policy": "Permitting the use of commercial parking spaces by for-hire vehicles.",
+"Category": "Bill (Local)",
+"Target": "For-hire vehicle drivers (Uber/Lyft) and the NYC Department of Transportation.",
+"Explained": "You know those 'Commercial Vehicles Only' parking spots? This bill would let Uber and Lyft drivers use them. It would give them more places to park legally while waiting for a ride, instead of just circling the block."
+},
+{
+"Policy": "Limiting the household rent contribution for recipients of a rental assistance voucher.",
+"Category": "Bill (Local)",
+"Target": "New York City residents using CityFHEPS rental assistance vouchers.",
+"Explained": "For people on city rental assistance vouchers, this bill would cap how much of their own income they have to spend on rent. It's meant to make sure the vouchers actually help people afford their apartments instead of them still being broke after paying rent."
+},
+{
+"Policy": "Signage regarding patient rights and hospital services for transgender individuals.",
+"Category": "Local Law",
+"Target": "Hospitals in New York City and transgender patients.",
+"Explained": "This is a new law that makes hospitals put up signs explaining the rights of trans patients and the gender-affirming services they offer. It's about making sure trans people know their rights and can get the care they need without discrimination."
+},
+{
+"Policy": "The US commerce secretary, Howard Lutnick, said at a Friday press briefing that “all the big companies” had been briefed on the new fee. “A hundred-thousand dollars a year for H-1B visas, and all of the big companies are on board. We've spoken to them,” Lutnick said at an Oval Office event with the US president.",
+"Category": "Policy Announcement",
+"Target": "Large technology companies (Amazon, Microsoft, Meta), H-1B visa applicants, and the US tech industry.",
+"Explained": "The Commerce Secretary is out here saying all the big tech companies are cool with the new $100k fee for H-1B visas. It sounds like the White House is trying to get ahead of the backlash by claiming the industry is on board, but we'll see if that's actually true. It's a power move."
+},
+{
+"Policy": "The US federal government drew closer to a shutdown on Friday, after Democrats made good on their vow not to support a Republican-backed measure that would extend funding for another two months because it did not include provisions to protect healthcare programs.",
+"Category": "Legislative Action (Senate Block)",
+"Target": "US Senate, federal government agencies, and the American public.",
+"Explained": "The House passed a bill to keep the government open, but the Democrats in the Senate blocked it. They're holding out because they want to force a negotiation on healthcare funding. It's a high-stakes game of chicken, and if nobody swerves, the government shuts down."
+},
+{
+"Policy": "The Senate rejected competing measures on Friday to fund federal agencies for a few weeks when the new budget year begins on Oct. 1, increasing prospects for a partial government shutdown on that date.",
+"Category": "Legislative Action (Failed Vote)",
+"Target": "US Senate, federal government agencies.",
+"Explained": "Welp, both the Republican and Democrat plans to keep the government funded failed in the Senate. Neither side could get enough votes. Now the chances of a government shutdown are looking real, real high. They're just playing politics while people's paychecks are on the line."
+},
+{
+"Policy": "The 119th Congress has advanced just 36 bills that became law, almost half of which were repeals of federal regulations issued in the waning days of Joe Biden's presidency rather than new policies.",
+"Category": "Legislative Trend Analysis",
+"Target": "The 119th U.S. Congress.",
+"Explained": "This is less a policy and more of a fact, but it's wild. This current Congress has barely passed any new laws. Most of what they've done is just undoing stuff the last president did. It's a perfect picture of the gridlock in DC; they're more focused on fighting the last war than doing anything new."
+},
+{
+"Policy": "The Department of Justice has determined that these transactions, which fall into four categories—data brokerage, vendor agreements, employment agreements, and investment agreements—pose an unacceptable risk to U.S. national security.",
+"Category": "Agency Determination",
+"Target": "U.S. companies involved in data brokerage, vendor, employment, and investment agreements with foreign entities.",
+"Explained": "The DOJ is officially saying that it's a national security risk for American companies to make certain data deals with foreign countries. This isn't a law yet, but it's the official reason they're using to justify the new rules cracking down on data sales. They're drawing a line in the sand."
+},
+{
+"Policy": "The rule identifies certain classes of highly sensitive transactions with countries of concern or covered persons that are entirely prohibited ('prohibited transactions'). It also identifies other classes of transactions that would be prohibited unless they comply with predefined security requirements ('restricted transactions').",
+"Category": "Regulatory Framework",
+"Target": "U.S. companies handling sensitive personal data.",
+"Explained": "The new data security rule has two levels. Some deals are straight-up banned, like you can't do them at all. Others are 'restricted,' meaning you can do them, but you have to follow a bunch of strict security rules. It's making companies really think about who they're doing business with."
+},
+{
+"Policy": "The rule also specifies certain classes of transactions that are exempt. These include, but are not limited to, transactions for the official business of the U.S. Government by its employees, grantees, or contractors; transactions required or authorized by Federal law or international agreements; financial services; corporate group transactions; telecommunications services...",
+"Category": "Regulatory Exemption",
+"Target": "U.S. government contractors, financial institutions, and telecommunication companies.",
+"Explained": "Even though the new data security rules are super strict, there are some exceptions. If you're doing work for the U.S. government, or you're a bank or a phone company, a lot of the rules don't apply to your normal business. They're trying to target specific risks without shutting down the whole economy."
+},
+{
+"Policy": "The rule applies to data brokerage, investment, vendor, or employment transactions regardless of whether the U.S. person is a for-profit or non-profit entity.",
+"Category": "Regulatory Clarification",
+"Target": "For-profit and non-profit U.S. entities.",
+"Explained": "The government is making it clear that the new data security rules apply to everyone, not just big corporations. Even if you're a non-profit, if you're making deals that involve sensitive data with certain foreign countries, you have to follow the rules. No one gets a pass."
+},
+{
+"Policy": "The rule is limited to transactions that are commercial in nature, meaning they involve some form of payment or valuable consideration.",
+"Category": "Regulatory Clarification",
+"Target": "U.S. entities engaged in commercial data transactions.",
+"Explained": "The new data rules are focused on business deals. If you're just collaborating on research with someone overseas and no money is changing hands, the rules probably don't apply. They're targeting the buying and selling of our data, not just sharing information."
+},
+{
+"Policy": "The final rule's effective date for these provisions is April 8, 2025, but the due diligence and audit requirements and certain reporting requirements are delayed until October 6, 2025.",
+"Category": "Regulatory Timeline",
+"Target": "U.S. companies affected by the new data security rule.",
+"Explained": "The government is giving companies some time to get their act together. The main rules on data sharing start in April, but the really complicated stuff, like audits and reporting, doesn't kick in until October. It's a grace period, but companies are probably scrambling already."
+},
+{
+"Policy": "This bill would prohibit the sale of electric space heaters without certain safety features; specifically, requiring all such devices for sale to be equipped with a thermostat, an automatic function that disables the device upon tip-over or overheating, and be certified by a nationally recognized testing laboratory.",
+"Category": "Local Law",
+"Target": "Retailers and manufacturers of electric space heaters in NYC.",
+"Explained": "After all those fires, the city is finally cracking down on dangerous space heaters. This law makes it illegal to sell one unless it has modern safety features, like an automatic shutoff if it gets knocked over. It's a simple thing that's gonna save lives, for real."
+},
+{
+"Policy": "This bill would require certain businesses that supply their employees to clients for the performance of construction work or manual labor on the client's construction site, in exchange for compensation, to be licensed.",
+"Category": "Local Law",
+"Target": "Construction labor providers (temp agencies) and construction workers in NYC.",
+"Explained": "There are a lot of shady temp agencies for construction that exploit workers. This law forces them to get a license from the city and follow the rules. It's about protecting workers from getting ripped off or put in dangerous situations."
+},
+{
+"Policy": "This bill would require that movie theaters showing over 10 movies a week provide open captions for at least one quarter of all showings when a movie is shown four or more times.",
+"Category": "Local Law",
+"Target": "Movie theaters in NYC and the deaf and hard-of-hearing community.",
+"Explained": "The city is making movie theaters be more accessible. This law says they have to offer a certain number of showtimes with open captions on the screen, so people who are deaf or hard of hearing can enjoy movies too. It's only right."
+},
+{
+"Policy": "This bill would amend language in Int. 2289-A regarding distance limits, to provide that a worker may set a maximum distance per trip from a food service establishment where such worker will pick up food, beverages, or other goods, that such worker will travel on trips.",
+"Category": "Local Law",
+"Target": "App-based food delivery services and their workers in NYC.",
+"Explained": "This law gives more power to the delivery guys on bikes. It lets them set a limit in the app for how far they're willing to go for a delivery. So the app can't force them to take a crazy trip from Manhattan to the Bronx for like five bucks."
+},
+{
+"Policy": "New York Senate Bill 8034A / Assembly Bill 8590A, which Governor Kathy Hochul signed on September 5, 2025, authorizes the New York State Public Employment Relations Board to assert jurisdiction over disputes between private employers, employees, and unions when the NLRB is unable to act effectively.",
+"Category": "Law (State)",
+"Target": "Private employers, labor unions, and the NYS Public Employment Relations Board.",
+"Explained": "The federal agency that's supposed to handle union issues is basically broken. So, New York passed a law that says our state labor board can step in and handle cases between companies and unions if the feds are dropping the ball. It's a way to make sure workers still have rights."
+},
+{
+"Policy": "Governor Hochul Signs Legislation to Strengthen Protections for Rent Stabilized Tenants Throughout New York State. Legislation S2980-C/A6216-B strengthens tenant protections by making various changes to avoid improper deregulations or rent increases and strengthen enforcement of the rent stabilization laws.",
+"Category": "Law (State)",
+"Target": "Rent-stabilized tenants and landlords in New York State.",
+"Explained": "This is a big one for renters. The state just passed a law that closes a bunch of loopholes landlords were using to illegally take apartments out of rent stabilization. It makes it harder for them to cheat and raise the rent to insane levels."
+},
+{
+"Policy": "The City Council on Thursday approved a broad legislative package aimed at strengthening civil rights protections and healthcare access for transgender, gender non-conforming, non-binary, and intersex (TGNCNBI) individuals.",
+"Category": "Legislative Package (Local)",
+"Target": "Transgender, gender non-conforming, non-binary, and intersex (TGNCNBI) individuals in NYC.",
+"Explained": "With all the anti-trans hate going on around the country, the City Council just passed a bunch of laws to protect trans and gender non-conforming New Yorkers. It's a whole package of bills to protect their access to healthcare and strengthen their civil rights. The city is basically saying, 'We got your back.'"
+},
+{
+"Policy": "Introduction 1200-A... mandates that the Mayor's Office of Equity and Racial Justice provide public guidance on legal protections, hate crime resources, gender-affirming care, and legal name and gender marker changes.",
+"Category": "Bill (Local)",
+"Target": "NYC Mayor's Office of Equity and Racial Justice, TGNCNBI individuals.",
+"Explained": "This bill is part of the trans-safety package. It makes the city create and publicize a guide for trans people on all their rights, where to get gender-affirming care, how to report a hate crime, and how to change their name and gender on official documents. It's about making crucial information easy to find."
+},
+{
+"Policy": "Introduction 1203-A by Council Member Chi Ossé, requiring a city assessment of services for newly arrived TGNCNBI migrants.",
+"Category": "Bill (Local)",
+"Target": "Newly arrived TGNCNBI migrants and asylum seekers, and NYC social service agencies.",
+"Explained": "A lot of migrants and asylum seekers arriving in the city are trans or gender non-conforming, and they face unique dangers. This bill makes the city study what services they need, like safe housing and healthcare, to make sure they're being protected and not falling through the cracks."
+},
+{
+"Policy": "Resolution 771, introduced by Manhattan Council Member Erik Bottcher, supports a state bill that would enhance protections for personal health data.",
+"Category": "Resolution (Local)",
+"Target": "New York State Legislature, New York City residents.",
+"Explained": "A resolution isn't a law, it's more like the City Council officially saying 'we support this.' In this case, they're backing a state-level bill to create stronger privacy protections for our health data. They're trying to pressure Albany to pass the law."
+},
+{
+"Policy": "Resolution 774, from Council Member Hudson, calls on the New York State Department of Health to require hospitals to follow the World Professional Association for Transgender Health's Standards of Care.",
+"Category": "Resolution (Local)",
+"Target": "NYS Department of Health, hospitals, and transgender patients.",
+"Explained": "The City Council is officially asking the state's Health Department to make all hospitals follow the international standards for trans healthcare. They can't force them, but it's public pressure to make sure trans people are getting proper, up-to-date medical care everywhere in the state."
+},
+{
+"Policy": "New York City Council Passes Historic Citywide Zoning Reforms Estimated to Create over 82,000 New Homes, Tackling Affordability Crisis throughout City.",
+"Category": "Zoning Law (Local)",
+"Target": "Real estate developers, community boards, and residents of NYC.",
+"Explained": "The City Council just passed a massive overhaul of the city's zoning rules. It's supposed to make it easier to build a ton of new housing all over the five boroughs to deal with the crazy high rents. It's a huge deal that's gonna change the face of the city, for better or worse."
+},
+{
+"Policy": "A key modification by the Council includes establishing affordable housing incentives in low-density areas that make inclusionary zoning citywide for the first time in New York City.",
+"Category": "Zoning Law (Local)",
+"Target": "Real estate developers and residents in low-density neighborhoods (e.g., parts of Queens, Staten Island, the Bronx).",
+"Explained": "As part of the big zoning change, the Council is pushing for affordable housing in neighborhoods that usually don't have any. They're creating rules and incentives so that even in more suburban-style parts of the city, new developments will have to include affordable apartments."
+},
+{
+"Policy": "This iteration of J-51 includes important reforms: added tenant protections, prioritization of energy efficiency work to meet our city's climate goals, and data transparency to understand the full reach of the program.",
+"Category": "Law (Local)",
+"Target": "Landlords receiving J-51 tax abatements and their tenants.",
+"Explained": "J-51 is a tax break for landlords who renovate their buildings. The city just reformed the program to add more protections for tenants, push landlords to make their buildings more energy-efficient, and make the whole system more transparent so we know who's getting the tax breaks."
+},
+{
+"Policy": "Local Law 97 is the nation's most aggressive municipal climate law, targeting emissions reduction that can make our communities easier to live and breathe in.",
+"Category": "Local Law",
+"Target": "Owners of large buildings in New York City.",
+"Explained": "Local Law 97 is the city's huge climate law that forces big buildings to cut their carbon emissions or face massive fines. It's a really big deal for fighting climate change, but a lot of building owners are freaking out about how much it's going to cost to upgrade their properties."
+},
+{
+"Policy": "Council Passes Bills to Reduce Court Case Delays, Require Dedicated Staff for Rikers Closure, and More.",
+"Category": "Legislative Package (Local)",
+"Target": "NYC court system, Department of Correction, and individuals in custody.",
+"Explained": "The City Council just passed a few bills at once. One is supposed to use tech to speed up the courts, which are crazy slow. Another one is to make sure there are people whose only job is to work on closing Rikers, so it actually happens."
+},
+{
+"Policy": "Today, the New York City Council voted to override Mayor Adams' vetoes of Introduction 47-B, Introduction 1133-A, and Introduction 1135-A.",
+"Category": "Legislative Action (Veto Override)",
+"Target": "The Mayor of New York City and the New York City Council.",
+"Explained": "The Mayor vetoed some bills he didn't like, but the City Council had enough votes to override him. That means the bills become law anyway. It's a major power struggle between the Mayor and the Council, and this time the Council won."
+},
+{
+"Policy": "The US military had carried out another deadly strike on a vessel in the Caribbean, killing three men on board the vessel whom Trump alleged had been trafficking illicit narcotics.",
+"Category": "Executive Order / Military Action",
+"Target": "Suspected narcotraffickers in the Caribbean and U.S. Southern Command.",
+"Explained": "The President ordered a military strike on a boat in the Caribbean that he said was trafficking drugs for a terrorist group. They blew up the boat and killed three people. It's a pretty intense move to use a military strike for something like that."
+},
+{
+"Policy": "The Trump Administration issued new guidance to ensure illegal aliens are not allowed access to federal workforce development resources and related grants, protecting job trainings for American workers.",
+"Category": "Agency Guidance",
+"Target": "Undocumented immigrants and federal workforce development programs.",
+"Explained": "The White House put out new rules that block undocumented immigrants from getting access to federal job training programs and grants. The idea is to save those resources for American citizens, but it's another move that makes life harder for immigrants."
+},
+{
+"Policy": "President Trump is using tariffs as a strategic tool to rebuild American manufacturing, secure our supply chains, and protect U.S. national security.",
+"Category": "Trade Policy / Declaration",
+"Target": "Foreign exporters, U.S. importers, and American manufacturing companies.",
+"Explained": "This is the whole philosophy behind the trade wars. The President is using tariffs, which are taxes on imported goods, to try and force companies to make more stuff in America. He says it's for national security, but it also makes a lot of things more expensive for us."
+},
+{
+"Policy": "The Proclamation directs the Secretary of Labor to initiative rulemaking to revise the prevailing wage levels for the H-1B program and directs the Secretary of Homeland Security to initiate rulemaking to prioritize high-skilled, high-paid H-1B workers.",
+"Category": "Presidential Directive",
+"Target": "Department of Labor, Department of Homeland Security, and companies using the H-1B visa program.",
+"Explained": "Along with the huge new fee, the President's H-1B order tells government agencies to rewrite the rules. They want to raise the minimum salary for H-1B workers and make sure the visas go to the highest-paid people. It's another way to make it harder and more expensive to hire foreign workers."
+},
+{
+"Policy": "The House passed a stop-gap funding bill – written by Republicans to stave off a government shutdown – only for Democrats to reject it in the Senate.",
+"Category": "Legislative Action",
+"Target": "U.S. Congress and federal agencies.",
+"Explained": "This is the definition of gridlock. The House passed a bill to keep the government open, but the other party immediately killed it in the Senate. They're at a total standoff, and a government shutdown is looking more and more likely."
+},
+{
+"Policy": "Democrats released their own proposal Wednesday evening that would keep the government open through Oct. That measure would make Affordable Care Act subsidies put in place under the covid-19 pandemic permanent, restore funding that has been frozen by the Trump administration, reverse cuts to Medicaid...",
+"Category": "Bill (Proposed)",
+"Target": "U.S. Congress, recipients of ACA subsidies and Medicaid.",
+"Explained": "The Democrats have their own plan to avoid a shutdown, but it's loaded with other stuff. They want to make the Obamacare subsidies permanent and reverse cuts to Medicaid. They're using the must-pass funding bill as leverage to get their healthcare priorities through."
+},
+{
+"Policy": "The One Big Beautiful Bill Act, which has grown increasingly unpopular since its July 3 passage, was all-encompassing enough that it has essentially drained the Republicans of other to-do items on their agenda.",
+"Category": "Public Law / Political Analysis",
+"Target": "U.S. Congress and the Republican party.",
+"Explained": "The Republicans passed this one gigantic bill earlier in the year that had everything in it. Now, it seems like they've run out of ideas and are just coasting. It also means that when people get mad about one part of the bill, they get mad about the whole thing."
+},
+{
+"Policy": "GOP leaders cajoled a handful of traditional free-market Republicans to support a measure on Tuesday that prevents the House from debating Trump's tariff policy in almost any fashion until the end of March.",
+"Category": "House Rule / Procedural Vote",
+"Target": "Members of the U.S. House of Representatives.",
+"Explained": "Some Republicans aren't fans of the President's tariffs, but the party leadership just passed a rule to shut them up. This measure basically blocks anyone in the House from even debating or voting on the tariff policies for months. It's a way to force party loyalty."
+},
+{
+"Policy": "The final rule implements President Biden's February 2024 Executive Order 14117, 'Preventing Access to Americans' Bulk Sensitive Personal Data and United States Government-Related Data by Countries of Concern.'",
+"Category": "Final Rule",
+"Target": "U.S. companies and individuals, and 'countries of concern' like China and Russia.",
+"Explained": "The President signed an executive order about data security, and this is the actual rule that puts it into action. The executive order is the big idea, and the final rule is the nitty-gritty details of what companies can and can't do with our data when it comes to certain foreign countries."
+},
+{
+"Policy": "The rule's prohibitions and restrictions on data transactions apply regardless of whether the data is anonymized, pseudonymized, de-identified, or encrypted.",
+"Category": "Regulatory Provision",
+"Target": "Data brokers, tech companies, and researchers.",
+"Explained": "This is a key part of the new data security rule. It says that even if you strip out names and personal info from a data set, the rules still apply. The government thinks that foreign countries can use AI to re-identify people anyway, so they're banning the sale of the data no matter what."
+},
+{
+"Policy": "A data set that contains more than one category is subject to the lowest threshold that applies to any category the data set contains.",
+"Category": "Regulatory Provision",
+"Target": "Companies handling multiple types of data.",
+"Explained": "The new data rules have different limits for different types of info, like health data is more sensitive than other stuff. This part says if you have a data set with a mix of info, you have to follow the rules for the most sensitive category in the whole batch. They're not letting anyone get away with loopholes."
+},
+{
+"Policy": "The new regulations impose requirements on U.S. persons and entities that provide access to bulk U.S. sensitive personal data or U.S. government-related data to 'covered persons' that are affiliated with a 'country of concern.'",
+"Category": "Regulation",
+"Target": "U.S. persons and entities, and foreign individuals/companies affiliated with countries like China, Russia, Iran, etc.",
+"Explained": "The new rules are all about stopping countries like China and Russia from getting their hands on large amounts of our sensitive data. It puts a bunch of requirements on any American person or company that is involved in a deal that gives these foreign entities access to that info."
+},
+{
+"Policy": "A 'United States Person' or 'U.S. Person' is any: U.S. citizen, national, lawful permanent resident, asylee, or refugee; Entity organized solely under the laws of the United States or any jurisdiction within the United States (including foreign branches) Any person in the United States (regardless of citizenship or status, physically located in the U.S.)",
+"Category": "Legal Definition",
+"Target": "Individuals and entities subject to U.S. law.",
+"Explained": "This is just the government being super specific about who has to follow these new data rules. It's not just citizens; it's basically any person who is physically in the U.S. and any company based here. They're making the definition as broad as possible."
+},
+{
+"Policy": "The Department of Justice (DOJ) conducted a Final Regulatory Impact Analysis for this rule... DOJ estimates the discounted annualized cost of the rule to be approximately $459 million annually.",
+"Category": "Regulatory Impact Analysis",
+"Target": "The U.S. economy, particularly businesses that must comply with the new data security rule.",
+"Explained": "The government had to figure out how much this new data security rule is going to cost businesses to follow. Their official estimate is that it'll cost the economy almost half a billion dollars every year. That's a lot of money for companies to spend on compliance."
+},
+{
+"Policy": "DOJ received 75 timely comments from trade associations, public interest advocacy groups, think tanks, private individuals, and companies, as well as comments from several foreign governments.",
+"Category": "Rulemaking Process",
+"Target": "Department of Justice.",
+"Explained": "Before the DOJ made the data security rule final, they had to ask for public opinion. They got a ton of feedback from all kinds of groups, from big business to privacy advocates to foreign governments. It shows how many people this rule is going to affect."
+},
+{
+"Policy": "This bill would require the Department of Consumer and Worker Protection (DCWP) to study working conditions and determine a minimum pay rate for contracted delivery workers.",
+"Category": "Bill (Local)",
+"Target": "NYC Department of Consumer and Worker Protection (DCWP) and app-based delivery workers.",
+"Explained": "This bill is the first step to getting minimum pay for all delivery workers, not just restaurant delivery. It tells a city agency to do a study and figure out what a fair minimum pay rate should be for people delivering groceries and other packages for apps."
+},
+{
+"Policy": "This bill would require third-party food and grocery delivery services to offer a tipping option of at least 10 percent of the purchase price on each food or grocery delivery order.",
+"Category": "Bill (Local)",
+"Target": "App-based delivery services and their customers.",
+"Explained": "The City Council is trying to make sure delivery workers get better tips. This bill would force apps like DoorDash and Instacart to include a tipping option that's at least 10% of the order total. You could still tip more or less, but they have to suggest at least 10%."
+},
+{
+"Policy": "This bill would extend food delivery worker protections to all contracted delivery workers retained to deliver goods for a delivery service.",
+"Category": "Bill (Local)",
+"Target": "All app-based delivery workers in NYC.",
+"Explained": "Right now, a lot of the new protections only apply to restaurant delivery workers. This bill would expand those rights, like minimum pay and bathroom access, to everyone who delivers for an app, whether it's food, groceries, or packages from a store."
+},
+{
+"Policy": "This bill would require third-party grocery delivery services to pay their delivery workers a minimum pay rate that would meet or exceed that set by DCWP.",
+"Category": "Bill (Local)",
+"Target": "App-based grocery delivery services (like Instacart) and their workers.",
+"Explained": "This is the bill that actually makes the minimum pay happen for grocery delivery workers. Once the city agency figures out the pay rate, this law will force the apps to pay their workers at least that much. It's a huge deal for those workers."
+},
+{
+"Policy": "The effective date of the bill including minimum-pay rate protections for grocery delivery workers is tied to the enactment of other legislation related to safe delivery access for contracted delivery workers, which is currently awaiting the mayor's signature.",
+"Category": "Legislative Detail",
+"Target": "App-based grocery delivery workers.",
+"Explained": "This is some inside baseball, but the minimum pay for grocery delivery workers won't start until another related bill gets signed into law. It's how they link different pieces of legislation together to make sure a whole package of reforms happens at once."
+},
+{
+"Policy": "The city's own data shows that this bill could drive grocery delivery costs up by a staggering 46%, cut off access to work for thousands of NYC delivery workers, and increase fees on local grocers.",
+"Category": "Policy Opposition Argument",
+"Target": "New York City Council and consumers.",
+"Explained": "This is the other side of the story. The delivery app companies are saying that if the city forces them to pay a minimum wage, they're going to have to raise their prices by almost 50%. They're warning that it will make delivery too expensive and that they'll have to hire fewer workers."
+},
+{
+"Policy": "The rights to limit delivery distance and route, get trip information before accepting a delivery, get paid weekly without payment fees, and get an insulated bag took effect on April 22, 2022.",
+"Category": "Local Law (Effective Date)",
+"Target": "App-based food delivery workers in NYC.",
+"Explained": "This is just a reminder of the rights that food delivery workers already have. As of April 2022, they can limit their delivery distance, they have to be told the pay and tip upfront, they have to get paid weekly, and the company has to give them an insulated bag. The minimum pay part came later."
+},
+{
+"Policy": "For every trip, before workers accept an offer, apps must tell workers all of the following: Pickup location address. Estimated time and distance for the trip. Amount of any tip selected by a customer. Amount of pay or the hourly pay rate the worker will receive for the trip, without counting tips.",
+"Category": "Local Law (Transparency Requirement)",
+"Target": "App-based delivery services.",
+"Explained": "This law is all about transparency. Before a delivery worker accepts a job, the app has to tell them exactly where they're going, how long it should take, how much the app is paying them, and how much the customer tipped. No more mystery trips for low pay."
+},
+{
+"Policy": "Apps must offer at least one no-fee option for workers to get paid.",
+"Category": "Local Law (Payment Requirement)",
+"Target": "App-based delivery services.",
+"Explained": "Some apps were charging their workers fees just to get their own money, which is wild. This law makes that illegal. The apps have to give workers at least one way to get paid, like direct deposit, that doesn't have any fees attached."
+},
+{
+"Policy": "A third-party food delivery service or third-party courier service shall not offer any food delivery worker any trip that is inconsistent with the parameters established by such worker and shall not penalize a food delivery worker for selecting or changing such parameters.",
+"Category": "Local Law (Worker Protection)",
+"Target": "App-based delivery services.",
+"Explained": "This backs up the law that lets workers set their own distance limits. It makes it illegal for the app to offer them a job that goes beyond their limit, and it also says the app can't punish them for using the feature, like by giving them fewer offers in the future."
+},
+{
+"Policy": "The legislation reflects the most comprehensive attempt to curb the food delivery apps' employment practices by any city in the country.",
+"Category": "Policy Analysis",
+"Target": "New York City Council and app-based delivery companies.",
+"Explained": "This isn't a policy itself, but it's the takeaway. New York City's package of laws for delivery workers is the toughest and most detailed in the entire country. The city is really leading the way in trying to regulate the gig economy."
+},
+{
+"Policy": "In 2021, the Council passed a package of bills establishing minimum wages and working conditions for delivery workers who contract with third-party food delivery platforms.",
+"Category": "Legislative History",
+"Target": "NYC food delivery workers.",
+"Explained": "This just gives some background. The big push to protect delivery workers in NYC started back in 2021 when the City Council passed the first set of major laws that eventually led to things like minimum pay and the right to set your own delivery distance."
+},
+{
+"Policy": "The bill would also require the Department of Consumer and Worker Protection (DCWP) to study working conditions and determine a minimum pay rate for contracted delivery workers.",
+"Category": "Local Law (Mandate)",
+"Target": "NYC Department of Consumer and Worker Protection (DCWP).",
+"Explained": "This law gave a city agency, the DCWP, a specific job: to study how much delivery workers actually make and what their expenses are, and then use that data to come up with a fair minimum pay rate. It's about making a decision based on facts, not just what the companies say."
+},
+{
+"Policy": "The bill would also amend the effective dates of Int. 2288-A and Int. 2294-A to provide that such local laws would take effect on the same date as Int. 2289-A.",
+"Category": "Legislative Procedure",
+"Target": "New York City Council.",
+"Explained": "This is some technical government stuff. They passed a few different bills for delivery workers, and this just makes sure they all officially start on the same day. It's just coordinating the paperwork to make sure all the new rules kick in together."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to requiring building owners to provide shower hoses and informational materials on Legionnaires' disease to tenants.",
+"Category": "Bill (Local)",
+"Target": "Landlords and tenants in New York City.",
+"Explained": "The city is looking at a new law to fight Legionnaires' disease. It would make landlords give all their tenants info about the disease and also provide those detachable shower heads, which are supposed to be safer and easier to clean. It's a public health thing."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to cooling tower inspections in heat-related emergencies.",
+"Category": "Bill (Local)",
+"Target": "Owners of large buildings with cooling towers.",
+"Explained": "Those big AC units on top of buildings, cooling towers, can spread Legionnaires' disease if they're not clean. This proposed law would require them to be inspected during heat waves, when they're running non-stop, to make sure they're not making people sick."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to allowing supplemental sanitation service providers to place refuse or recycling next to any public litter basket.",
+"Category": "Bill (Local)",
+"Target": "Supplemental sanitation service providers (like Business Improvement Districts).",
+"Explained": "You know how some neighborhoods have those extra clean-up crews in uniforms? This bill would let them put the trash they collect next to the regular city trash cans for pickup. It's a small change to make it easier for them to keep the streets clean."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to online submission of citizen's complaints to enforce dumping prohibition laws.",
+"Category": "Bill (Local)",
+"Target": "New York City residents and the Department of Sanitation.",
+"Explained": "If you see someone illegally dumping trash, this bill would make it easier to report them. It would require the city to set up a system so you can file a complaint and submit evidence, like a photo or video, online. It's about using technology to catch grimy people."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to adding two commissioners to the New York city taxi and limousine commission board.",
+"Category": "Bill (Local)",
+"Target": "The NYC Taxi and Limousine Commission (TLC).",
+"Explained": "The City Council wants to add two more people to the board that runs the TLC, the agency that regulates taxis and Uber. It's a political move to change the balance of power on the board and have more influence over its decisions."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to establishing an office of the census.",
+"Category": "Bill (Local)",
+"Target": "The government of New York City.",
+"Explained": "The census is a huge deal; it determines how much money and political power the city gets. This bill would create a permanent city office to handle the census every ten years. The goal is to make sure every single New Yorker gets counted so we don't get screwed."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to enforcing violations against unlicensed commuter vans.",
+"Category": "Bill (Local)",
+"Target": "Unlicensed commuter van operators and the TLC.",
+"Explained": "Those dollar vans can be super sketchy if they're not licensed. This bill is about cracking down on the illegal ones. It would give the TLC more power to enforce the rules and get the dangerous vans off the road."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to monthly reporting by the director of management and budget on the status of all federal funding.",
+"Category": "Bill (Local)",
+"Target": "The NYC Office of Management and Budget (OMB).",
+"Explained": "The city gets a ton of money from the federal government, but it's hard to track. This bill would force the city's budget office to release a report every month showing all the federal money we're supposed to get and where it's going. It's all about transparency."
+},
+{
+"Policy": "A Local Law to amend the administrative code of the city of New York, in relation to requiring the commissioner of information technology and telecommunications to create a separate 311 category for rooftop activity complaints.",
+"Category": "Local Law",
+"Target": "NYC 311 system, Department of Buildings, and residents.",
+"Explained": "If your neighbors are having loud parties on the roof, it's hard to complain to 311. This new law makes them create a special category just for rooftop complaints. It also makes the Buildings Department report on what they're doing about illegal rooftop party spots."
+},
+{
+"Policy": "The Senate Democratic Majority will advance legislation to further ensure access to affordable housing for all New Yorkers. This legislative package builds on our work and efforts from last year's legislative session to better address housing shortages and rising costs across New York State.",
+"Category": "Legislative Agenda Announcement",
+"Target": "Renters and homeowners in New York State.",
+"Explained": "The Democrats in the state senate are announcing that they're pushing a bunch of new bills to deal with the housing crisis. It's not one specific law, but a whole package of them aimed at creating more affordable housing and protecting tenants. It's their big priority."
+},
+{
+"Policy": "This bill, S. 2534, would provide a lookback period of up to two years to the original date of eligibility for the senior citizen rent increase exemption (SCRIE) and the Disability Rent Increase Exemption (DRIE).",
+"Category": "Bill (State)",
+"Target": "Senior citizens and people with disabilities who are eligible for rent freeze programs.",
+"Explained": "SCRIE and DRIE are programs that freeze the rent for seniors and people with disabilities. A lot of people don't find out they're eligible until way later. This bill would let them apply retroactively for up to two years, so they can get back the money they overpaid in rent."
+},
+{
+"Policy": "This bill, S. 2627, will help support the continued availability of free housing counseling and legal services to homeowners through The State Homeowner Protection Program (HOPP).",
+"Category": "Law (State)",
+"Target": "New York homeowners facing foreclosure.",
+"Explained": "The state has a program called HOPP that
