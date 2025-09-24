@@ -72,15 +72,6 @@
     "HS Explanation": "This law amends the Controlled Substances Act to give law enforcement more tools to combat the fentanyl crisis. It permanently places all fentanyl-related analogues (substances with a similar chemical structure) into Schedule I, the most restrictive category of controlled substances. This closes a loophole where drug traffickers could create slightly modified versions of fentanyl to evade regulation. The law is intended to streamline prosecution and help reduce the supply of these dangerous drugs."
   },
   {
-    "Policy": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to 'California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; 
-Waiver of Preemption'.",
-    "Date": "2025-04-15",
-    "Category": "Public Law (Joint Resolution)",
-    "Target": "Environmental Protection Agency (EPA), California Air Resources Board (CARB), and automobile manufacturers.",
-    "Explained": "So California has its own tough rules for car pollution, tougher than the rest of the country, and the EPA was cool with it. But now Congress is stepping in and saying 'nah, we're canceling that rule.' They're using a special process called the Congressional Review Act to just erase the EPA's decision. It's a whole fight between states' rights, the federal government, and the car companies over electric cars and climate change stuff.",
-    "HS Explanation": "Under the Clean Air Act, California is unique in that it can set its own, stricter vehicle emission standards if the EPA approves it. The EPA had granted California a waiver to do so. However, Congress has passed a joint resolution of disapproval to overturn the EPA's decision. This action blocks California from enforcing its stricter standards. This is a major policy conflict, pitting the federal government against a state over environmental regulation and the auto industry."
-  },
-{
     "Policy": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to 'Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications'.",
     "Date": "2025-05-20",
     "Category": "Public Law (Joint Resolution)",
@@ -184,7 +175,7 @@ Waiver of Preemption'.",
     "Explained": "This is for the 9/11 heroes. A lot of them are still getting sick from working at Ground Zero, years later. This law makes it easier for them to file the paperwork to get the disability benefits and compensation they deserve, even if they missed the original deadlines because their illness didn't show up right away. It's fixing a problem to make sure those people are taken care of.",
     "HS Explanation": "This state law addresses benefits for first responders and others who were involved in the rescue and cleanup efforts after the 9/11 attacks. Many of these individuals developed serious health problems years later. The law extends the deadline and simplifies the process for them to file official notice of their participation, which is a necessary step to qualify for disability retirement and other benefits related to their WTC-certified illnesses."
   },
-{
+  {
     "Policy": "A Local Law to amend the administrative code of the city of New York, in relation to the sale of electric space heaters. This bill would prohibit the sale of any electric space heater that is not equipped with a thermostat, an automatic shut-off function that disables the device upon tip-over or overheating, and has not been certified by a nationally recognized testing laboratory.",
     "Date": "2025-10-15",
     "Category": "Local Law",
@@ -280,7 +271,7 @@ Waiver of Preemption'.",
     "Explained": "So other states are passing these wild anti-trans laws. This NYC bill is basically a legal shield. It says if you come to New York to get gender-affirming care and your home state tries to sue you or your doctor, you can fight back in court here in NYC. It's the city's way of making itself a safe haven for trans healthcare and telling other states to back off.",
     "HS Explanation": "This New York City law, known as the 'Affirm Act,' is designed to protect transgender individuals who travel to the city for gender-affirming healthcare. Some other states have passed laws that allow their residents to be sued for receiving or providing this type of care. This NYC law creates a legal protection, or a 'shield,' allowing patients and doctors in New York to file a counter-lawsuit against anyone who tries to sue them under another state's restrictive laws."
   }, 
-{
+  {
     "Policy": "Introduction 246-A: A Local Law to amend the administrative code of the city of New York, in relation to mandating an 'X' gender marker option on all city forms and documents that request an individual's gender.",
     "Date": "2025-09-18",
     "Category": "Bill (Local)",
@@ -392,7 +383,7 @@ Waiver of Preemption'.",
     "Explained": "There was a rule to protect old shipwrecks and other historical stuff on the ocean floor from being destroyed by things like offshore wind farms or oil drilling. But Congress just voted to get rid of that rule. So now there are fewer federal protections for these underwater historical sites when energy companies want to build out in the ocean.",
     "HS Explanation": "A federal agency, the Bureau of Ocean Energy Management, had put in place a rule to protect underwater archaeological sites, such as historic shipwrecks, during offshore energy projects. Congress has now passed a joint resolution to eliminate that rule. This action removes the specific federal requirements that the agency had established for identifying and preserving these resources."
   },
-{
+  {
     "Policy": "Notice of Request for Public Comments on Section 232 National Security Investigation of Imports of Trucks. The Department of Commerce has initiated an investigation under Section 232 of the Trade Expansion Act of 1962, as amended, to determine the effect of imports of trucks, including light, medium, and heavy-duty trucks, on the national security of the United States. The Department invites interested parties to submit written comments, data, and analyses.",
     "Date": "2025-03-05",
     "Category": "Notice",
@@ -488,7 +479,7 @@ Waiver of Preemption'.",
     "Explained": "Legionnaires' disease is this nasty type of pneumonia you can get from bacteria in bad water systems. The City Council is considering a bill that would make landlords give tenants info about it and also provide detachable shower hoses, which are apparently safer because they are less likely to create the aerosolized water that spreads the bacteria. It's all about public health.",
     "HS Explanation": "To help prevent outbreaks of Legionnaires' disease, this New York City bill would require landlords to take two actions: first, provide tenants with information about the disease and its prevention, and second, equip showers with detachable hoses. Health experts believe these hoses can reduce the risk of spreading the Legionella bacteria that causes the illness. This is part of a package of laws aimed at improving water system safety in large buildings."
   },
-{
+  {
     "Policy": "A Local Law to amend the administrative code of the city of New York, in relation to building water system maintenance and inspection. This bill would require owners of multiple dwellings to conduct annual inspections of their domestic water systems and maintain a log of such inspections and any corrective actions taken.",
     "Date": "2025-11-15",
     "Category": "Bill (Local)",
@@ -584,7 +575,7 @@ Waiver of Preemption'.",
     "Explained": "The DOJ is officially saying that it's a national security risk for American companies to make certain data deals with foreign countries. This isn't a law passed by Congress, but it's the official reason and legal justification they're using to create new rules cracking down on data sales. They're drawing a line in the sand about what kind of business is too risky.",
     "HS Explanation": "The Department of Justice (DOJ) has formally declared that specific types of business deals involving the transfer of large amounts of Americans' personal data to foreign countries are a threat to national security. This official 'determination' serves as the foundation for new regulations that the DOJ is implementing to prohibit or restrict these activities, particularly those involving 'countries of concern.'"
   },
-{
+  {
     "Policy": "The final rule from the Department of Justice identifies two tiers of data transactions. Certain classes of highly sensitive transactions with countries of concern or covered persons are entirely prohibited ('prohibited transactions'). Other classes of transactions are prohibited unless they comply with a set of predefined security requirements, including satisfying due-diligence and cybersecurity standards ('restricted transactions').",
     "Date": "2025-04-08",
     "Category": "Regulatory Framework",
@@ -1032,7 +1023,7 @@ Waiver of Preemption'.",
     "Explained": "SCRIE and DRIE are amazing city/state programs that freeze the rent for seniors and people with disabilities who qualify. But a lot of people don't find out they're eligible until way later and miss out. This bill would let them apply retroactively for up to two years, so they can get back the money they overpaid in rent before they got into the program. It's about making sure people get the benefits they were entitled to.",
     "HS Explanation": "New York has rent-freeze programs called SCRIE and DRIE for eligible seniors and people with disabilities. Often, people don't enroll the moment they become eligible. This state bill would allow new applicants to have their benefits be retroactive for up to two years. This means they could receive a credit or refund for the rent increases they paid during the period they were eligible but not yet enrolled."
   },
-{
+  {
     "Policy": "An act to amend the general business law, in relation to establishing the 'digital fair repair act'. This act requires original equipment manufacturers (OEMs) of digital electronic equipment to make diagnostic and repair information, parts, and tools available to independent repair providers and consumers on fair and reasonable terms.",
     "Date": "2025-10-01",
     "Category": "Law (State)",
@@ -1112,7 +1103,7 @@ Waiver of Preemption'.",
     "Explained": "Right now, the Mayor's office can basically decide to put a new homeless shelter anywhere in the city without much local input, which leads to huge fights. This bill would change that and give the local City Council member and the community a real say. It would force new shelters to go through the city's public review process, called ULURP. It gives communities more power to fight a shelter, but critics say it will make it impossible to open new ones that are desperately needed.",
     "HS Explanation": "This proposed NYC law would fundamentally change how and where new homeless shelters are located. Currently, the mayor's administration has the primary authority to site shelters. This bill would shift that power by requiring all new shelters to go through the city's formal land use review process, ULURP. This would give the City Council and local communities the power to approve or disapprove of proposed shelter locations, making it a much more public and political process."
   },
-{
+  {
     "Policy": "A final rule by the U.S. Department of Agriculture (USDA) establishing a national mandatory bioengineered (BE) food disclosure standard. This rule requires food manufacturers, importers, and certain retailers to ensure bioengineered foods are appropriately disclosed using one of the approved methods: text, a symbol, an electronic or digital link, or a text message.",
     "Date": "2025-10-20",
     "Category": "Final Rule",
@@ -1192,7 +1183,7 @@ Waiver of Preemption'.",
     "Explained": "The government is finally going after one of the tech giants. The DOJ and a bunch of states are suing them, saying they have an illegal monopoly over the technology that runs most of the ads you see online. They're not just asking for a fine; they're asking the court to break up the company and force it to sell off big parts of its ad business. This is the biggest antitrust case in tech in like 20 years.",
     "HS Explanation": "The U.S. Department of Justice has filed a major antitrust lawsuit against one of the largest technology companies in the world. The government alleges that the company has used its power to illegally eliminate competition in the digital advertising market. The lawsuit is significant because it seeks a 'structural remedy'—meaning it asks the court to force the company to sell off parts of its business to restore competition in the market."
   },
-{
+  {
     "Policy": "A Local Law to amend the administrative code of the city of New York, in relation to alternate side parking regulations. This bill would make alternate side parking rules citywide subject to a 'once-a-week' cleaning schedule, codifying the temporary changes made during the COVID-19 pandemic.",
     "Date": "2025-10-21",
     "Category": "Local Law",
@@ -1352,7 +1343,7 @@ Waiver of Preemption'.",
     "Explained": "The state just passed a law that freezes tuition at all SUNY and CUNY schools for the next three years. So, if you're an in-state student, the price you pay won't go up. To make sure the schools don't go broke, the state is giving them more money directly from the budget to make up the difference. It's a big move to keep public college affordable, but it puts more pressure on the state budget.",
     "HS Explanation": "To address the rising cost of college, the New York State government has enacted a three-year tuition freeze for in-state undergraduate students at all public SUNY and CUNY colleges. To prevent this from harming the universities financially, the law also includes a commitment to increase direct state funding to the schools. This policy shifts some of the cost of higher education from students back to the state."
   },
-{
+  {
     "Policy": "The Federal Trade Commission (FTC) has filed a lawsuit in federal district court to block the proposed merger of two of the nation's largest supermarket chains, alleging that the consolidation would violate antitrust laws by eliminating competition, leading to higher food prices for consumers and lower wages for workers.",
     "Date": "2025-08-11",
     "Category": "Executive Action / Legal Filing",
@@ -1512,7 +1503,7 @@ Waiver of Preemption'.",
     "Explained": "The PRO Act is the bill that unions have been trying to pass for years. It's a massive piece of legislation that would totally change the balance of power between workers and companies. It would make it way easier to form a union, make it harder for companies to bust them, and add real penalties for companies that illegally fire workers for organizing. It's the biggest labor law reform bill in decades, but it has a very tough road to pass in the Senate.",
     "HS Explanation": "The 'Protecting the Right to Organize (PRO) Act' is a major piece of federal legislation that has been proposed in Congress. If passed, it would represent the most significant update to U.S. labor law in many years. The bill aims to strengthen unions by making it easier for workers to organize, increasing penalties for companies that interfere with union campaigns, and overriding state-level 'right-to-work' laws. It is strongly supported by unions and strongly opposed by business groups."
   },
-{
+  {
     "Policy": "A final rule by the U.S. Postal Service (USPS) to revise service standards for First-Class Mail and Periodicals. The rule changes the delivery standard for certain mail traveling longer distances from a three-day to a five-day standard, while increasing the reliability of mail delivered within a local area.",
     "Date": "2025-10-01",
     "Category": "Final Rule",
@@ -1672,7 +1663,7 @@ Waiver of Preemption'.",
     "Explained": "The city is creating a new grant program to give money directly to individual artists and small arts groups, especially in the outer boroughs and neighborhoods that don't usually get a lot of arts funding. Instead of just funding the big museums, this 'City Artist Corps' is meant to support the grassroots creative scene that makes New York, New York. It's a way to spread the cultural funding around more equitably.",
     "HS Explanation": "This New York City law establishes a new grant program called the 'City Artist Corps.' The program is specifically designed to provide financial support to smaller, community-focused arts organizations and individual artists, with a focus on funding projects in neighborhoods that have historically received less support from the city's main cultural institutions. The policy aims to foster a more diverse and equitable arts scene across all five boroughs."
   },
-{
+  {
     "Policy": "A new rule by the Consumer Financial Protection Bureau (CFPB) to curb excessive credit card late fees. The final rule amends Regulation Z to lower the safe harbor for late fees for large issuers from the current $30 to a new, lower cap of $8 and prohibits any automatic annual inflation adjustment for the fee cap.",
     "Date": "2025-03-05",
     "Category": "Final Rule",
@@ -1832,7 +1823,7 @@ Waiver of Preemption'.",
     "Explained": "The state has a new grand plan to finally fix the slow and unreliable Amtrak service upstate. The plan calls for spending a ton of money to upgrade the tracks so the trains can actually go faster, and to add more daily trips between places like Albany, Syracuse, and Buffalo. They're even looking at bringing back service to cities that lost it years ago. It's a long-term vision to make train travel a real option for people upstate.",
     "HS Explanation": "The New York State Department of Transportation has unveiled a long-range plan to enhance passenger rail service along the 'Empire Corridor,' which connects cities across Upstate New York. The proposal includes significant infrastructure investments to increase train speeds and reliability. It also aims to add more daily trains to the schedule, making rail a more convenient and viable mode of transportation for intercity travel in the state."
   },
-{
+  {
     "Policy": "A final rule by the New York City Department of Transportation establishing a permanent regulatory framework for the city's 'Open Streets' program. The rule sets forth the application process for community groups, operational requirements, and standards for barrier and signage design to ensure safety and accessibility.",
     "Date": "2025-04-30",
     "Category": "Final Rule (Local Agency)",
@@ -1992,7 +1983,7 @@ Waiver of Preemption'.",
     "Explained": "The city is trying to get more data on how the NYPD interacts with people on the street. This new law strengthens the 'Right to Know Act.' It forces the cops to collect and publish data on even their most basic, low-level encounters with the public—like when an officer just comes up to you and asks what you're doing. They'll have to report the race, age, and gender of the people they stop, and why they stopped them. It's another move to bring more transparency to everyday policing.",
     "HS Explanation": "This New York City law expands upon existing police transparency regulations. It mandates that the NYPD must collect and publicly report demographic data on all levels of police-citizen encounters, including the most basic, non-criminal inquiries. This policy is designed to provide data that will allow the public and oversight bodies to analyze police activity for potential patterns of bias."
   },
-{
+  {
     "Policy": "A final rule from the U.S. Bureau of Land Management (BLM) establishing a new framework for managing public lands. The 'Public Lands Rule' elevates conservation to a use on par with traditional uses like grazing and mining, and it establishes a system for leasing public lands for restoration and mitigation purposes.",
     "Date": "2025-04-18",
     "Category": "Final Rule",
@@ -2232,7 +2223,7 @@ Waiver of Preemption'.",
     "Explained": "The city is going to try and make the traffic lights smarter. They're launching a pilot program in Queens to install new 'smart signals' that use AI to watch traffic in real time and change the timing of the lights automatically. The idea is to have the lights react to what's actually happening on the street, instead of just running on a dumb timer. If it works, it could seriously cut down on traffic jams and a lot of needless waiting at red lights.",
     "HS Explanation": "The New York City Department of Transportation is starting a pilot program to test new 'smart' traffic light technology. At 100 intersections, the city will install new signals that use sensors and artificial intelligence to analyze traffic conditions and adjust their timing in real time. This is a 'smart city' initiative aimed at using technology to reduce congestion, improve safety, and make the transportation network more efficient. The results of the pilot will determine if the technology is expanded."
   },
-{
+  {
     "Policy": "A final rule by the U.S. Department of Agriculture (USDA) updating the nutritional standards for school meals. The rule gradually reduces the amount of sodium allowed in meals, limits added sugars for the first time (with a focus on products like flavored milk and yogurt), and reinforces standards for whole grains.",
     "Date": "2025-04-25",
     "Category": "Final Rule",
@@ -2472,7 +2463,7 @@ Waiver of Preemption'.",
     "Explained": "The city is trying to deal with all the rentable e-bikes and scooters that are left lying all over the sidewalk. They're starting a new pilot program to create special on-street parking spots just for them. It's basically like a bike rack, but it's a whole section of the street set aside for shared scooters and bikes. The idea is to get them off the sidewalk where people are tripping over them and give them their own dedicated space.",
     "HS Explanation": "To better manage the growing number of shared electric scooters and bikes, the New York City Department of Transportation is launching a pilot program to test designated parking areas for these devices. These on-street 'micromobility corrals' will replace a small number of car parking spaces. The policy goal is to reduce sidewalk congestion and improve safety and order for this new form of transportation."
   },
-{
+  {
     "Policy": "The U.S. Food and Drug Administration (FDA) has granted full approval for the first-ever over-the-counter daily oral contraceptive pill. The approval will allow the product to be sold without a prescription in drug stores, convenience stores, and online retailers.",
     "Date": "2025-07-13",
     "Category": "Agency Action (FDA Approval)",
@@ -2712,7 +2703,7 @@ Waiver of Preemption'.",
     "Explained": "This is a big one for housing transparency. A bill just passed the legislature that would create a statewide database of every single rental apartment in New York. Every landlord would have to register their apartments and provide info like who owns the building and what the rent is. It would be a massive new tool for tenants to look up their building's history and for the state to actually enforce rent stabilization laws. Landlords are fighting it, saying it's a huge invasion of privacy.",
     "HS Explanation": "The New York State legislature has passed a bill that would create a comprehensive, statewide rental registry. If it becomes law, all residential landlords would be required to register their rental units in a central database managed by the state. This registry would collect key data about each property. The policy's goal is to increase transparency in the rental market and to provide the state with better data for enforcing housing laws."
   },
-{
+  {
     "Policy": "The New York City Council has overridden a mayoral veto to pass the 'How Many Stops Act' (Intro 586-B). This local law expands the reporting requirements of the NYPD's Right to Know Act, requiring officers to document all investigatory encounters with the public, including lower-level 'Level 1' stops, and to provide demographic data for those encounters.",
     "Date": "2025-01-30",
     "Category": "Local Law (Veto Override)",
@@ -2912,7 +2903,7 @@ Waiver of Preemption'.",
     "Explained": "Signing up for government benefits is a total nightmare of paperwork. This new city law is trying to fix that. It's forcing the city to upgrade its 'Access NYC' website into a one-stop shop for everything. The idea is you can go on, answer a bunch of questions once, and the site will tell you every single benefit you qualify for—from food stamps to rent assistance—and let you apply for all of them with one single application. It's a huge tech upgrade to make it easier for people to get the help they're entitled to.",
     "HS Explanation": "This New York City law is aimed at streamlining access to social services. It requires the city to create a unified online system where residents can screen for and apply for multiple government benefit programs at once. This 'single-point-of-entry' policy is designed to reduce the bureaucratic burden on individuals and families, making it easier for them to access all the city, state, and federal assistance for which they are eligible."
   },
-{
+  {
     "Policy": "A new final rule from the Federal Trade Commission (FTC) to ban noncompete clauses in employment contracts. The rule makes it illegal for employers to enter into, enforce, or attempt to enforce noncompete agreements with workers, with limited exceptions for the sale of a business.",
     "Date": "2025-04-23",
     "Category": "Final Rule",
@@ -3280,7 +3271,7 @@ Waiver of Preemption'.",
     "Explained": "Scammers are now using AI to clone people's voices to trick them, and the government is trying to fight back. The FTC just launched a contest to see who can build the best tool to detect these AI-powered scam calls. It's a creative way to try and crowdsource a solution to a new and scary technology problem. They're basically admitting that the government can't solve this alone and they need help from the tech world.",
     "HS Explanation": "To combat a new form of fraud, the Federal Trade Commission (FTC) has launched the 'Voice Cloning Challenge.' This is a public competition that asks innovators to develop new technology that can identify and block illegal robocalls that use AI-generated voices. This is an example of a government agency using a prize-based competition to spur innovation and find technological solutions to a complex law enforcement problem."
   },
-{
+  {
     "Policy": "A final rule by the U.S. Consumer Financial Protection Bureau (CFPB) to remove medical bills from most credit reports. The rule prohibits consumer reporting agencies from including medical debt on credit reports and prohibits lenders from considering medical debt when making lending decisions.",
     "Date": "2025-09-18",
     "Category": "Final Rule",
@@ -3480,7 +3471,7 @@ Waiver of Preemption'.",
     "Explained": "This is some super important but super nerdy energy news. The feds just dropped a huge new rule that's going to make it easier to build big new power lines to carry all the wind and solar energy from where it's made to the cities where it's needed. The new rule forces the utility companies to actually plan for the future and it creates a better system for deciding who pays for these massive, multi-state projects. It's a huge deal for actually getting the green energy transition built.",
     "HS Explanation": "The Federal Energy Regulatory Commission (FERC), which regulates the interstate transmission of electricity, has issued a landmark new rule. The rule overhauls the way that new long-distance, high-voltage power lines are planned and paid for. This is a critical energy policy because a larger, more modern transmission grid is needed to connect new renewable energy sources to the places where the power is consumed. The rule is designed to accelerate the build-out of this necessary infrastructure."
   },
-{
+  {
     "Policy": "A final rule by the U.S. National Highway Traffic Safety Administration (NHTSA) to update the New Car Assessment Program (NCAP). The new rule incorporates advanced driver-assistance systems (ADAS), such as lane-keeping assist and blind-spot detection, into the vehicle's 5-star safety rating and adds a new rating for pedestrian protection.",
     "Date": "2025-08-20",
     "Category": "Final Rule",
@@ -3680,7 +3671,7 @@ Waiver of Preemption'.",
     "Explained": "The Justice Department just put a major new restriction on all federal cops, like the FBI and the DEA. This new policy bans them from using chokeholds in most situations. It also severely limits when they can use a 'no-knock' warrant to raid a house. They can only do it in the most dangerous situations, and they have to get a boss to sign off on it first. It's not a law, so it doesn't apply to local police, but it's a big change in the rules for all federal agents.",
     "HS Explanation": "The U.S. Department of Justice has issued a new policy that significantly restricts the use of two controversial law enforcement tactics by all federal agents. The policy effectively bans the use of chokeholds and it places strict limitations on the circumstances under which a 'no-knock' warrant can be sought and executed. This is an internal, administrative policy change that is part of a broader federal effort to reform policing practices."
   },
-{
+  {
     "Policy": "A new policy from the New York City Department of Education regarding student cell phone use. The policy prohibits the use of cell phones, smart watches, and other personal electronic devices during the school day in all public middle schools. High schools may opt in to the ban or develop their own less restrictive policies.",
     "Date": "2025-08-29",
     "Category": "Agency Policy Change",
@@ -3880,7 +3871,7 @@ Waiver of Preemption'.",
     "Explained": "The federal government is launching a new, coordinated effort to use the ocean to fight climate change. This new strategy from NOAA is all about 'ocean-based climate solutions.' It's a big-picture plan that will pull together all the different things the government is doing, from building offshore wind farms to protecting the coastal wetlands that absorb a ton of carbon. It's a recognition that the ocean isn't just a victim of climate change; it can also be a big part of the solution.",
     "HS Explanation": "The National Oceanic and Atmospheric Administration (NOAA) has launched a new strategic initiative to focus on 'ocean-based climate solutions.' This is a comprehensive federal policy framework that aims to harness the power of the ocean to both mitigate the causes of climate change and to help coastal communities adapt to its impacts. The strategy will guide federal research, investment, and management in areas such as offshore wind energy, the restoration of coastal habitats that store carbon, and sustainable fisheries management."
   },
-{
+  {
     "Policy": "A new final rule from the U.S. National Labor Relations Board (NLRB) that establishes a new standard for determining joint-employer status. The rule makes it easier for a company to be considered a 'joint employer' of its franchisees' or contractors' employees, making them liable for labor law violations and obligated to bargain with a union.",
     "Date": "2025-10-26",
     "Category": "Final Rule",
@@ -4080,7 +4071,7 @@ Waiver of Preemption'.",
     "Explained": "The government is cracking down on fake 'Made in USA' labels. The FTC just made a new, tougher rule about what can actually be called 'Made in USA.' It says that to use that label, a company has to prove that 'all or virtually all' of the product was made and sourced here. No more just putting a few American screws in a product that was mostly made in China and then slapping an American flag on it. It's a big move to stop deceptive marketing and protect the integrity of the label.",
     "HS Explanation": "The Federal Trade Commission has issued a new final rule that strengthens the standard for 'Made in USA' claims. This is a consumer protection and truth-in-advertising policy. The rule makes it explicitly illegal for companies to label a product as 'Made in USA' unless the product is 'all or virtually all' made in the United States. This gives the FTC more power to take action against companies that use deceptive or misleading country-of-origin labels."
   },
-{
+  {
     "Policy": "A final rule by the U.S. Department of Labor's Occupational Safety and Health Administration (OSHA) to update the federal Hazard Communication Standard. The updated rule aligns the standard with the seventh revision of the Globally Harmonized System of Classification and Labelling of Chemicals (GHS), improving the requirements for safety data sheets, labels, and worker training.",
     "Date": "2025-05-20",
     "Category": "Final Rule",
@@ -4280,7 +4271,7 @@ Waiver of Preemption'.",
     "Explained": "The government is trying to put DACA on more solid ground. For years, the 'Dreamers' program has just been a memo from the president, which makes it really easy to attack in court. The Department of Homeland Security just went through the whole long, formal process to turn DACA into an official federal regulation. It doesn't change who is eligible or what the benefits are, but by making it a real regulation, they're hoping to give it a much stronger legal shield to protect it from all the lawsuits that are trying to kill it.",
     "HS Explanation": "The Department of Homeland Security has issued a final rule that codifies the Deferred Action for Childhood Arrivals (DACA) program. Codification is the process of turning a policy into a formal, binding regulation. DACA was originally created by an executive memo, which left it legally vulnerable. This new rule is a major administrative action that is intended to strengthen the legal foundation of the DACA program and to better protect it from the ongoing legal challenges that have threatened its existence."
   },
-{
+  {
     "Policy": "A final rule by the U.S. National Credit Union Administration (NCUA) to amend its 'Payday Alternative Loan' (PAL) program. The rule creates a new 'PALs III' option, which offers greater flexibility by allowing federal credit unions to offer larger loans with longer repayment terms, providing a more viable alternative to traditional high-cost payday loans.",
     "Date": "2025-03-21",
     "Category": "Final Rule",
@@ -4480,7 +4471,7 @@ Waiver of Preemption'.",
     "Explained": "NASA just updated its rulebook for how to not contaminate Mars with Earth germs. For decades, they've had super strict 'planetary protection' rules that made it incredibly expensive and difficult to land anything there. This new rule is a big update. It's still very strict for the parts of Mars where there might be life, but it's a little more relaxed for other areas. It's a really important change that's going to make it possible for all the new private companies and robotic missions to actually go to Mars without getting bogged down in impossible-to-meet rules.",
     "HS Explanation": "NASA has issued a new final rule that modernizes its 'planetary protection' policy for missions to Mars. Planetary protection is the practice of protecting other solar system bodies from contamination by Earth life, and protecting Earth from any potential extraterrestrial life. The new rule updates the old, one-size-fits-all approach and creates a more sophisticated, risk-based system. This is a critical space policy that will enable the next generation of more complex missions to Mars, including those by the private sector, while still upholding core scientific and safety principles."
   },
-{
+  {
     "Policy": "A final rule by the U.S. Department of Housing and Urban Development (HUD) to establish a new 'Section 8' housing voucher program specifically for homeless veterans. The 'Veterans Affairs Supportive Housing' (VASH) program will provide approximately 10,000 new housing vouchers, administered in partnership with the Department of Veterans Affairs, which will provide supportive services.",
     "Date": "2025-11-11",
     "Category": "Final Rule",
